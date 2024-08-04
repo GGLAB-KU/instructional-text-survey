@@ -1,0 +1,201 @@
+title	year	tag 1	tag 2	tag 3	tag 4	 tag 5	tag 6
+Walk the Talk: Connecting Language, Knowledge, and Action in Route Instructions ∗	2006	CITY:Austin	DATA:Unstructured	TASK:Grounded Task Execution	VENUE:AAAI		
+Reinforcement learning for mapping instructions to actions	2009	CITY:Cambridge Massachusetts	DATA:Task-Centric	DATA:Unstructured	TASK:Grounded Task Execution	VENUE:ACL	
+Learning to Follow Navigational Directions	2010	CITY:Stanford	DATA:Unstructured	TASK:Grounded Task Execution	VENUE:ACL		
+Learning Script Knowledge with Web Experiments	2010	CITY:Saarbrucken	DATA:[TO REVIEW]	TASK:Event Alignment	TASK:Process Structure Induction	VENUE:ACL	
+Approaching the Symbol Grounding Problem with Probabilistic Graphical Models	2011	CITY:Providence	DATA:Symbolic	TASK:Grounded Task Execution	VENUE:AAAI		
+Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions	2013	CITY:Seattle	DATA:Task-Centric	TASK:Grounded Task Execution	TASK:Parsing	VENUE:TACL	
+Determining Language for Human to Robot Navigational Commands	2014	CITY:Cambridge Massachusetts	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:Human Factors and Ergonomics Society Annual		
+Mise en Place: Unsupervised Interpretation of Instructional Recipes	2015	CITY:Seattle	DATA:Task-Centric	TASK:Process Extraction	VENUE:EMNLP		
+Predicting the Structure of Cooking Recipes	2015	CITY:Abu Dhabi	DATA:Entity-Centric	TASK:Parsing	VENUE:EMNLP		
+Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks	2015	CITY:Menlo Park	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:ICLR		
+On the Road to Benchmarking BPMN 2.0 Workflow Engines	2015	CITY:Stuttgart	DATA:Symbolic	TASK:[TO REVIEW]	VENUE:International Conference on Performance Engi		
+Environment-Driven Lexicon Induction for High-Level Instructions	2015	CITY:Ithaca	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:ACL		
+A Framework for Procedural Text Understanding	2015	CITY:Tokyo	DATA:[TO REVIEW]	TASK:Parsing	TASK:Process Extraction	VENUE:International Conference on Parsing Technolo	
+DeScript: A Crowdsourced Corpus for the Acquisition of High-Quality Script Knowledge	2016	CITY:Saarbrucken	DATA:Task-Centric	TASK:Event Alignment	TASK:Process Structure Induction	VENUE:LREC	
+Globally Coherent Text Generation with Neural Checklist Models	2016	CITY:Seattle	DATA:Unstructured	TASK:Script Generation	VENUE:EMNLP		
+Simpler Context-Dependent Logical Forms via Model Projections	2016	CITY:Stanford	DATA:Symbolic	TASK:Entity Tracking	VENUE:ACL		
+Tell me Dave: Context-sensitive grounding of natural language to manipulation instructions	2016	CITY:Ithaca	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:The International Journal of Robotics Resear		
+Sequence to Sequence Learning for Event Prediction	2017	CITY:Sydney	DATA:Task-Centric	TASK:Step Inference	VENUE:IJCNLP		
+InScript: Narrative texts annotated with script information	2017	CITY:Saarbrucken	DATA:Task-Centric	TASK:Script Generation	VENUE:LREC		
+Simulating Action Dynamics with Neural Process Networks	2017	CITY:Seattle	DATA:Unstructured	TASK:Causal Reasoning	TASK:Entity Tracking	VENUE:ICLR	
+Evaluation of Stanford NER for Extraction of Assembly Information from Instruction Manuals	2017	CITY:Porto	DATA:Entity-Centric	TASK:Parsing	VENUE:International Conference on Autonomous Robot		
+Are you Smarter than a Sixth Grader? Textbook Question Answering for Multimodal Machine Comprehension	2017	CITY:Seattle	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:CVPR		
+World of Bits: An Open-Domain Platform for Web-Based Agents	2017	CITY:Stanford	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:ICML		
+Dense-Captioning Events in Videos	2017	CITY:Stanford	DATA:Task-Centric	TASK:Event Alignment	VENUE:ICCV		
+Embodied Question Answering	2017	CITY:Atlanta	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:CVPR		
+Inducing Script Structure from Crowdsourced Event Descriptions via Semi-Supervised Clustering	2017	CITY:Saarbrucken	DATA:[TO REVIEW]	TASK:Event Alignment	TASK:Process Structure Induction	VENUE:EACL	
+WikiHow: A Large Scale Text Summarization Dataset	2018	CITY:Santa Barbara	DATA:Unstructured	TASK:Summarization	VENUE:arxiv		
+Extracting Action Sequences from Texts Based on Deep Reinforcement Learning	2018	CITY:Guangzhou	DATA:Task-Centric	TASK:Process Extraction	VENUE:IJCAI		
+Learning Procedures from Text: Codifying How-to Procedures in Deep Neural Networks	2018	CITY:West Lafayette	DATA:Entity-Centric	DATA:Task-Centric	TASK:Process Structure Induction	VENUE:The Web Conference	
+Tracking State Changes in Procedural Text: A Challenge Dataset and Models for Process Paragraph Comprehension	2018	CITY:Seattle	DATA:Entity-Centric	TASK:Entity Tracking	VENUE:NAACL		
+Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments	2018	CITY:Canberra	DATA:Unstructured	TASK:Grounded Task Execution	VENUE:CVPR		
+Natural language instructions for human–robot collaborative manipulation	2018	CITY:Pittsburgh	DATA:Unstructured	TASK:Grounded Task Execution	VENUE:The International Journal of Robotics Resear		
+Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration	2018	CITY:Stanford	DATA:Task-Centric	TASK:Grounded Task Execution	TASK:Process Structure Induction	VENUE:ICLR	
+Interactive Image Manipulation with Natural Language Instruction Commands	2018	CITY:Ikoma	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:arxiv		
+MCScript: A Novel Dataset for Assessing Machine Comprehension Using Script Knowledge	2018	CITY:Saarbrucken	DATA:Task-Centric	TASK:QA	VENUE:LREC		
+Translating Navigation Instructions in Natural Language to a High-Level Plan for Behavioral Robot Navigation	2018	CITY:Stanford	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:EMNLP		
+What Happened? Leveraging VerbNet to Predict the Effects of Actions in Procedural Text	2018	CITY:Seattle	DATA:[TO REVIEW]	TASK:Causal Reasoning	TASK:Detecting and Correcting Implicit Statements	VENUE:arxiv	
+Implicit Argument Prediction with Event Knowledge	2018	CITY:Austin	DATA:[TO REVIEW]	TASK:Detecting and Correcting Implicit Statements	TASK:Entity Tracking	VENUE:NAACL	
+HellaSwag: Can a Machine Really Finish Your Sentence?	2019	CITY:Seattle	DATA:Task-Centric	TASK:Causal Reasoning	VENUE:ACL		
+WIQA: A dataset for “What if...” reasoning over procedural text	2019	CITY:Seattle	DATA:Task-Centric	TASK:QA	VENUE:EMNLP		
+Learning Household Task Knowledge from WikiHow Descriptions	2019	CITY:Cambridge Massachusetts	DATA:Unstructured	TASK:Step Inference	VENUE:IJCAI		
+MCScript2.0: A Machine Comprehension Corpus Focused on Script Events and Participants	2019	CITY:Saarbrucken	DATA:Task-Centric	TASK:QA	VENUE:International Workshop on Semantic Evaluatio		
+The Materials Science Procedural Text Corpus: Annotating Materials Synthesis Procedures with Shallow Semantic Structures	2019	CITY:Amherst	DATA:Entity-Centric	DATA:Task-Centric	TASK:Process Extraction	VENUE:ACL	
+Everything Happens for a Reason: Discovering the Purpose of Actions in Procedural Text	2019	CITY:Seattle	DATA:Entity-Centric	TASK:Causal Reasoning	TASK:Entity Tracking	VENUE:EMNLP	
+Collaborative Dialogue in Minecraft	2019	CITY:Champaign	DATA:Task-Centric	TASK:Grounded Task Execution	TASK:Grounded Task-Oriented Dialogue	VENUE:ACL	
+REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments	2019	CITY:Adelaide	DATA:Unstructured	TASK:Grounded Task Execution	VENUE:CVPR		
+QuaRTz: An Open-Domain Dataset of Qualitative Relationship Questions	2019	CITY:Seattle	DATA:Entity-Centric	TASK:Causal Reasoning	VENUE:EMNLP		
+Benchmarking Hierarchical Script Knowledge	2019	CITY:Seattle	DATA:Task-Centric	TASK:Hierarchical Structure Extraction	VENUE:NAACL		
+Hierarchical Decision Making by Generating and Following Natural Language Instructions	2019	CITY:Menlo Park	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:NEURIPS		
+HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips	2019	CITY:Paris	DATA:Task-Centric	TASK:[TO REVIEW]	VENUE:ICCV		
+Walk the Talk: Connecting Language, Knowledge, and Action in Route Instructions ∗	2006	CITY:Austin	DATA:Unstructured	TASK:Grounded Task Execution	VENUE:AAAI		
+Reinforcement learning for mapping instructions to actions	2009	CITY:Cambridge Massachusetts	DATA:Task-Centric	DATA:Unstructured	TASK:Grounded Task Execution	VENUE:ACL	
+Learning to Follow Navigational Directions	2010	CITY:Stanford	DATA:Unstructured	TASK:Grounded Task Execution	VENUE:ACL		
+Learning Script Knowledge with Web Experiments	2010	CITY:Saarbrucken	DATA:[TO REVIEW]	TASK:Event Alignment	TASK:Process Structure Induction	VENUE:ACL	
+Approaching the Symbol Grounding Problem with Probabilistic Graphical Models	2011	CITY:Providence	DATA:Symbolic	TASK:Grounded Task Execution	VENUE:AAAI		
+Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions	2013	CITY:Seattle	DATA:Task-Centric	TASK:Grounded Task Execution	TASK:Parsing	VENUE:TACL	
+Determining Language for Human to Robot Navigational Commands	2014	CITY:Cambridge Massachusetts	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:Human Factors and Ergonomics Society Annual		
+Mise en Place: Unsupervised Interpretation of Instructional Recipes	2015	CITY:Seattle	DATA:Task-Centric	TASK:Process Extraction	VENUE:EMNLP		
+Predicting the Structure of Cooking Recipes	2015	CITY:Abu Dhabi	DATA:Entity-Centric	TASK:Parsing	VENUE:EMNLP		
+Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks	2015	CITY:Menlo Park	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:ICLR		
+On the Road to Benchmarking BPMN 2.0 Workflow Engines	2015	CITY:Stuttgart	DATA:Symbolic	TASK:[TO REVIEW]	VENUE:International Conference on Performance Engi		
+Environment-Driven Lexicon Induction for High-Level Instructions	2015	CITY:Ithaca	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:ACL		
+A Framework for Procedural Text Understanding	2015	CITY:Tokyo	DATA:[TO REVIEW]	TASK:Parsing	TASK:Process Extraction	VENUE:International Conference on Parsing Technolo	
+DeScript: A Crowdsourced Corpus for the Acquisition of High-Quality Script Knowledge	2016	CITY:Saarbrucken	DATA:Task-Centric	TASK:Event Alignment	TASK:Process Structure Induction	VENUE:LREC	
+Globally Coherent Text Generation with Neural Checklist Models	2016	CITY:Seattle	DATA:Unstructured	TASK:Script Generation	VENUE:EMNLP		
+Simpler Context-Dependent Logical Forms via Model Projections	2016	CITY:Stanford	DATA:Symbolic	TASK:Entity Tracking	VENUE:ACL		
+Tell me Dave: Context-sensitive grounding of natural language to manipulation instructions	2016	CITY:Ithaca	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:The International Journal of Robotics Resear		
+Sequence to Sequence Learning for Event Prediction	2017	CITY:Sydney	DATA:Task-Centric	TASK:Step Inference	VENUE:IJCNLP		
+InScript: Narrative texts annotated with script information	2017	CITY:Saarbrucken	DATA:Task-Centric	TASK:Script Generation	VENUE:LREC		
+Simulating Action Dynamics with Neural Process Networks	2017	CITY:Seattle	DATA:Unstructured	TASK:Causal Reasoning	TASK:Entity Tracking	VENUE:ICLR	
+Evaluation of Stanford NER for Extraction of Assembly Information from Instruction Manuals	2017	CITY:Porto	DATA:Entity-Centric	TASK:Parsing	VENUE:International Conference on Autonomous Robot		
+Are you Smarter than a Sixth Grader? Textbook Question Answering for Multimodal Machine Comprehension	2017	CITY:Seattle	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:CVPR		
+World of Bits: An Open-Domain Platform for Web-Based Agents	2017	CITY:Stanford	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:ICML		
+Dense-Captioning Events in Videos	2017	CITY:Stanford	DATA:Task-Centric	TASK:Event Alignment	VENUE:ICCV		
+Embodied Question Answering	2017	CITY:Atlanta	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:CVPR		
+Inducing Script Structure from Crowdsourced Event Descriptions via Semi-Supervised Clustering	2017	CITY:Saarbrucken	DATA:[TO REVIEW]	TASK:Event Alignment	TASK:Process Structure Induction	VENUE:EACL	
+WikiHow: A Large Scale Text Summarization Dataset	2018	CITY:Santa Barbara	DATA:Unstructured	TASK:Summarization	VENUE:arxiv		
+Extracting Action Sequences from Texts Based on Deep Reinforcement Learning	2018	CITY:Guangzhou	DATA:Task-Centric	TASK:Process Extraction	VENUE:IJCAI		
+Learning Procedures from Text: Codifying How-to Procedures in Deep Neural Networks	2018	CITY:West Lafayette	DATA:Entity-Centric	DATA:Task-Centric	TASK:Process Structure Induction	VENUE:The Web Conference	
+Tracking State Changes in Procedural Text: A Challenge Dataset and Models for Process Paragraph Comprehension	2018	CITY:Seattle	DATA:Entity-Centric	TASK:Entity Tracking	VENUE:NAACL		
+Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments	2018	CITY:Canberra	DATA:Unstructured	TASK:Grounded Task Execution	VENUE:CVPR		
+Natural language instructions for human–robot collaborative manipulation	2018	CITY:Pittsburgh	DATA:Unstructured	TASK:Grounded Task Execution	VENUE:The International Journal of Robotics Resear		
+Reinforcement Learning on Web Interfaces Using Workflow-Guided Exploration	2018	CITY:Stanford	DATA:Task-Centric	TASK:Grounded Task Execution	TASK:Process Structure Induction	VENUE:ICLR	
+Interactive Image Manipulation with Natural Language Instruction Commands	2018	CITY:Ikoma	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:arxiv		
+MCScript: A Novel Dataset for Assessing Machine Comprehension Using Script Knowledge	2018	CITY:Saarbrucken	DATA:Task-Centric	TASK:QA	VENUE:LREC		
+Translating Navigation Instructions in Natural Language to a High-Level Plan for Behavioral Robot Navigation	2018	CITY:Stanford	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:EMNLP		
+What Happened? Leveraging VerbNet to Predict the Effects of Actions in Procedural Text	2018	CITY:Seattle	DATA:[TO REVIEW]	TASK:Causal Reasoning	TASK:Detecting and Correcting Implicit Statements	VENUE:arxiv	
+Implicit Argument Prediction with Event Knowledge	2018	CITY:Austin	DATA:[TO REVIEW]	TASK:Detecting and Correcting Implicit Statements	TASK:Entity Tracking	VENUE:NAACL	
+HellaSwag: Can a Machine Really Finish Your Sentence?	2019	CITY:Seattle	DATA:Task-Centric	TASK:Causal Reasoning	VENUE:ACL		
+WIQA: A dataset for “What if...” reasoning over procedural text	2019	CITY:Seattle	DATA:Task-Centric	TASK:QA	VENUE:EMNLP		
+Learning Household Task Knowledge from WikiHow Descriptions	2019	CITY:Cambridge Massachusetts	DATA:Unstructured	TASK:Step Inference	VENUE:IJCAI		
+MCScript2.0: A Machine Comprehension Corpus Focused on Script Events and Participants	2019	CITY:Saarbrucken	DATA:Task-Centric	TASK:QA	VENUE:International Workshop on Semantic Evaluatio		
+The Materials Science Procedural Text Corpus: Annotating Materials Synthesis Procedures with Shallow Semantic Structures	2019	CITY:Amherst	DATA:Entity-Centric	DATA:Task-Centric	TASK:Process Extraction	VENUE:ACL	
+Everything Happens for a Reason: Discovering the Purpose of Actions in Procedural Text	2019	CITY:Seattle	DATA:Entity-Centric	TASK:Causal Reasoning	TASK:Entity Tracking	VENUE:EMNLP	
+Collaborative Dialogue in Minecraft	2019	CITY:Champaign	DATA:Task-Centric	TASK:Grounded Task Execution	TASK:Grounded Task-Oriented Dialogue	VENUE:ACL	
+REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments	2019	CITY:Adelaide	DATA:Unstructured	TASK:Grounded Task Execution	VENUE:CVPR		
+QuaRTz: An Open-Domain Dataset of Qualitative Relationship Questions	2019	CITY:Seattle	DATA:Entity-Centric	TASK:Causal Reasoning	VENUE:EMNLP		
+Benchmarking Hierarchical Script Knowledge	2019	CITY:Seattle	DATA:Task-Centric	TASK:Hierarchical Structure Extraction	VENUE:NAACL		
+Hierarchical Decision Making by Generating and Following Natural Language Instructions	2019	CITY:Menlo Park	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:NEURIPS		
+HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips	2019	CITY:Paris	DATA:Task-Centric	TASK:[TO REVIEW]	VENUE:ICCV		
+Reasoning about Goals, Steps, and Temporal Ordering with WikiHow	2020	CITY:Philadelphia	DATA:Task-Centric	TASK:Step Inference	VENUE:EMNLP		
+Analogous Process Structure Induction for Sub-event Sequence Prediction	2020	CITY:Hong Kong	DATA:Task-Centric	TASK:Process Structure Induction	VENUE:EMNLP		
+Mapping Natural Language Instructions to Mobile UI Action Sequences	2020	CITY:Mountain View	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:ACL		
+NLtoPDDL: One-Shot Learning of PDDL Models from Natural Language Process Manuals	2020	CITY:Delft	DATA:Symbolic	TASK:Grounded Task Execution	TASK:Parsing	VENUE:ICAPS	
+WikiLingua: A New Benchmark Dataset for Cross-Lingual Abstractive Summarization	2020	CITY:New York City	DATA:Unstructured	TASK:Summarization	VENUE:EMNLP		
+Missing Procedural Texts Repairing Based on Process Model and Activity Description Templates	2020	CITY:Beijing	DATA:Task-Centric	TASK:Detecting and Correcting Implicit Statements	VENUE:IEEE Access		
+doc2dial: A Goal-Oriented Document-Grounded Dialogue Dataset	2020	CITY:Yorktown Heights	DATA:Task-Centric	TASK:Grounded Task-Oriented Dialogue	VENUE:EMNLP		
+wikiHowToImprove: A Resource and Analyses on Edits in Instructional Texts	2020	CITY:Stuttgart	DATA:Unstructured	TASK:Detecting and Correcting Implicit Statements	VENUE:LREC		
+An Approach for Process Model Extraction by Multi-grained Text Classification	2020	CITY:Beijing	DATA:Task-Centric	TASK:Process Extraction	VENUE:International Conference on Advanced Informa		
+A Dataset for Tracking Entities in Open Domain Procedural Text	2020	CITY:Seattle	DATA:Task-Centric	TASK:Entity Tracking	VENUE:EMNLP		
+Learning to execute instructions in a Minecraft dialogue	2020	CITY:Champaign	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:ACL		
+ALFRED A Benchmark for Interpreting Grounded Instructions for Everyday Tasks	2020	CITY:Seattle	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:CVPR		
+A Dataset for Statutory Reasoning in Tax Law Entailment and Question Answering	2020	CITY:Maryland	DATA:Symbolic	TASK:Causal Reasoning	VENUE:NAACL		
+"What Are You Trying to Do?" Semantic Typing of Event Processes	2020	CITY:Philadelphia	DATA:Entity-Centric	DATA:Task-Centric	TASK:OTHERS	VENUE:Conference on Computational Natural Language	
+Planning Domain Generation from Natural Language Step-by-Step Instructions	2020	CITY:Porto Alegre	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:AAAI		
+FLIN: A Flexible Natural Language Interface for Web Navigation	2020	CITY:Chicago	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:NAACL		
+Cookpad Parsed Corpus: Linguistic Annotations of Japanese Recipes	2020	CITY:Yokohama	DATA:Task-Centric	TASK:Parsing	VENUE:LAW		
+A Named Entity Based Approach to Model Recipes	2020	CITY:New Delhi	DATA:Entity-Centric	TASK:Parsing	TASK:Process Extraction	VENUE:International Conference on Data Engineering	
+CHARTDIALOGS: Plotting from Natural Language Instructions	2020	CITY:San Diego	DATA:Task-Centric	TASK:Grounded Task-Oriented Dialogue	VENUE:ACL		
+CraftAssist Instruction Parsing: Semantic Parsing for a Voxel-World Assistant	2020	CITY:San Francisco	DATA:Task-Centric	TASK:Grounded Task-Oriented Dialogue	VENUE:ACL		
+From “Before” to “After”: Generating Natural Language Instructions from Image Pairs in a Simple Visual Domain	2020	CITY:Potsdam	DATA:Task-Centric	TASK:Script Generation	VENUE:ICNLG		
+From Natural Language Instructions to Complex Processes: Issues in Chaining Trigger Action Rules	2020	CITY:Tokyo	DATA:Task-Centric	TASK:Hierarchical Structure Extraction	TASK:Process Extraction	VENUE:arxiv	
+Multi-modal Cooking Workflow Construction for Food Recipes	2020	CITY:Singapore	DATA:Symbolic	TASK:Process Extraction	VENUE:ACM Multimedia		
+Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes	2020	CITY:Ghent	DATA:Symbolic	TASK:Detecting and Correcting Implicit Statements	VENUE:AACL		
+A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks	2020	CITY:Palo Alto	DATA:[TO REVIEW]	TASK:Event Alignment	VENUE:ACL		
+Knowledge-Aware Procedural Text Understanding with Multi-Stage Training	2020	CITY:Beijing	DATA:[TO REVIEW]	TASK:Detecting and Correcting Implicit Statements	TASK:Entity Tracking	VENUE:The Web Conference	
+Implicit Representations of Meaning in Neural Language Models	2021	CITY:Cambridge Massachusetts	DATA:Symbolic	TASK:Entity Tracking	VENUE:ACL		
+proScript: Partially Ordered Scripts Generation via Pre-trained Language Models	2021	CITY:Seattle	DATA:Task-Centric	TASK:Script Generation	VENUE:EMNLP		
+Goal-Oriented Script Construction	2021	CITY:Philadelphia	DATA:Task-Centric	TASK:Script Generation	VENUE:ICNLG		
+Visual Goal-Step Inference using wikiHow	2021	CITY:Philadelphia	DATA:Task-Centric	TASK:Step Inference	VENUE:EMNLP		
+Modeling Worlds in Text	2021	CITY:Atlanta	DATA:Entity-Centric	TASK:Grounded Task-Oriented Dialogue	VENUE:NEURIPS		
+TEACh: Task-driven Embodied Agents that Chat	2021	CITY:Sunnyvale	DATA:Task-Centric	TASK:Grounded Task-Oriented Dialogue			
+End-to-End Learning of Flowchart Grounded Task-Oriented Dialogs (FLONET)	2021	CITY:New Delhi	DATA:Task-Centric	TASK:Grounded Task-Oriented Dialogue	VENUE:EMNLP		
+MultiDoc2Dial: Modeling Dialogues Grounded in Multiple Documents	2021	CITY:Yorktown Heights	DATA:Task-Centric	TASK:Grounded Task-Oriented Dialogue	VENUE:EMNLP		
+Tiered Reasoning for Intuitive Physics: Toward Verifiable Commonsense Language Understanding	2021	CITY:Ann Arbor	DATA:Symbolic	TASK:Causal Reasoning	VENUE:EMNLP		
+Action-Based Conversations Dataset: A Corpus for Building More In-Depth Task-Oriented Dialogue Systems	2021	CITY:New York City	DATA:Task-Centric	TASK:Grounded Task-Oriented Dialogue	VENUE:NAACL		
+CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks	2021	CITY:Freiburg im Breisgau	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:IEEE Robotics and Automation Letters		
+Structure-Aware Procedural Text Generation From an Image Sequence	2021	CITY:kyoto	DATA:Unstructured	TASK:Script Generation	VENUE:IEEE Access		
+Supplementing Omitted Named Entities in Cooking Procedural Text with Attached Images	2021	CITY:Hong Kong	CITY:Kyoto	DATA:Entity-Centric	TASK:Entity Tracking	VENUE:Conference on Multimedia Information Process	
+HowSumm: A Multi-Document Summarization Dataset Derived from WikiHow Articles	2021	CITY:Yorktown Heights	DATA:Unstructured	TASK:Summarization	VENUE:arxiv		
+Tracking entities in technical procedures -- a new dataset and baselines	2021	CITY:New Delhi	DATA:Entity-Centric	TASK:Entity Tracking	VENUE:arxiv		
+Cross-Task Generalization via Natural Language Crowdsourcing Instructions	2021	CITY:Tempe	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:ACL		
+Grounding Open-Domain Instructions to Automate Web Support Tasks	2021	CITY:Stanford	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:NAACL		
+REVE-CE: Remote Embodied Visual Referring Expression in Continuous Environment	2021	CITY:Beijing	DATA:Unstructured	TASK:Grounded Task Execution	VENUE:IEEE Robotics and Automation Letters		
+AndroidEnv: A Reinforcement Learning Platform for Android	2021	CITY:London	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:arxiv		
+Chess as a Testbed for Language Model State Tracking	2021	CITY:Chicago	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:AAAI		
+Hierarchical Control of Situated Agents through Natural Language	2021	CITY:Pittsburgh	DATA:Task-Centric	TASK:Grounded Task Execution	TASK:Hierarchical Structure Extraction	VENUE:SUKI	
+Identify, Align, and Integrate: Matching Knowledge Graphs to Commonsense Reasoning Tasks	2021	CITY:Chapel Hill	DATA:Symbolic	TASK:[TO REVIEW]	VENUE:EACL		
+Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation	2021	CITY:Stanford	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:CoRL		
+Learning to Decompose and Organize Complex Tasks	2021	CITY:Philadelphia	DATA:Symbolic	TASK:Hierarchical Structure Extraction	TASK:Process Extraction	VENUE:NAACL	
+WebGPT: Browser-assisted question-answering with human feedback	2021	CITY:San Francisco	DATA:Unstructured	TASK:Grounded Task Execution	VENUE:arxiv		
+Aligning Actions Across Recipe Graphs	2021	CITY:Saarbrucken	DATA:[TO REVIEW]	TASK:Event Alignment	VENUE:EMNLP		
+UnImplicit Shared Task Report: Detecting Clarification Requirements in Instructional Text	2021	CITY:Stuttgart	DATA:[TO REVIEW]	TASK:Detecting and Correcting Implicit Statements	VENUE:NAACL		
+Benchmarking Generalization via In-Context Instructions on 1,600+ Language Tasks	2022	CITY:Seattle	DATA:Task-Centric	TASK:Domain Acquisition	VENUE:EMNLP		
+Finding Sub-task Structure with Natural Language Instruction	2022	CITY:Tokyo	DATA:Task-Centric	TASK:Hierarchical Structure Extraction	VENUE:ACL		
+Show Me More Details: Discovering Hierarchies of Procedures from Semi-structured Web Data	2022	CITY:Pittsburgh	DATA:Entity-Centric	TASK:Hierarchical Structure Extraction	VENUE:ACL		
+Task2Dial: A Novel Task and Dataset for Commonsense enhanced Task-based Dialogue Grounded in Documents	2022	CITY:Edinburgh	DATA:Task-Centric	TASK:Grounded Task-Oriented Dialogue	VENUE:ACL		
+Draw Me a Flower: Processing and Grounding Abstraction in Natural Language	2022	CITY:Ramat Gan	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:TACL		
+Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task	2022	CITY:Cambridge Massachusetts	DATA:Symbolic	TASK:Grounded Task Execution	VENUE:ICLR		
+Reshaping Robot Trajectories Using Natural Language Commands: A Study of Multi-Modal Data Alignment Using Transformers	2022	CITY:Munich	DATA:Unstructured	International Conference on Intelligent Robots and	TASK:Grounded Task Execution		
+Accurate Generation of Trigger-Action Programs with Domain-Adapted Sequence-to-Sequence Learning	2022	CITY:Singapore	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:International Conference on Program Comprehe		
+Learning Neuro-symbolic Programs for Language Guided Robot Manipulation	2022	CITY:New Delhi	DATA:Symbolic	TASK:Grounded Task Execution	VENUE:International Conference on Robotics and Aut		
+Incorporating Task-specific Concept Knowledge into Script Learning	2022	CITY:Champaign	DATA:Task-Centric	TASK:Script Generation	VENUE:EACL		
+Are All Steps Equally Important? Benchmarking Essentiality Detection of Events	2022	CITY:Philadelphia	DATA:Unstructured	TASK:OTHERS	VENUE:EMNLP		
+WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents	2022	CITY:Princeton	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:NEURIPS		
+META-GUI: Towards Multi-modal Conversational Agents on Mobile GUI	2022	CITY:Beijing	DATA:Task-Centric	TASK:Grounded Task-Oriented Dialogue	VENUE:EMNLP		
+A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility	2022	CITY:Boston	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:ECCV		
+Counterfactual Recipe Generation: Exploring Compositional Generalization in a Realistic Scenario	2022	CITY:Beijing	DATA:Unstructured	TASK:Domain Acquisition	TASK:Script Generation	VENUE:EMNLP	
+Learning Action Conditions from Instructional Manuals for Instruction Understanding	2022	CITY:Champaign	DATA:Symbolic	TASK:Process Structure Induction	VENUE:ACL		
+MIAIS: A Multimedia Recipe Dataset with Ingredient Annotation at Each Instructional Step	2022	CITY:Kyoto	DATA:Entity-Centric	DATA:Task-Centric	TASK:Process Extraction	VENUE:International Workshop on Multimedia for Coo	
+Summarizing a virtual robot's past actions in natural language	2022	CITY:New York City	DATA:Task-Centric	TASK:Summarization	VENUE:CoRL		
+DialFRED: Dialogue-Enabled Agents for Embodied Instruction Following	2022	CITY:Los Angeles	DATA:Task-Centric	TASK:Grounded Task-Oriented Dialogue	VENUE:IEEE Robotics and Automation Letters		
+ULN: Towards Underspecified Vision-and-Language Navigation	2022	CITY:Santa Barbara	DATA:[TO REVIEW]	TASK:Causal Reasoning	TASK:Detecting and Correcting Implicit Statements	TASK:Grounded Task Execution	VENUE:EMNLP
+Entity Tracking in Language Models	2023	CITY:Boston	DATA:Entity-Centric	TASK:Entity Tracking	VENUE:ACL		
+Combining Machine Learning and Semantic Web: A Systematic Mapping Study	2023	CITY:Vienna	DATA:Symbolic	TASK:Domain Acquisition	VENUE:International Workshop on Neural-Symbolic Le		
+Causal Reasoning of Entities and Events in Procedural Texts	2023	CITY:Philadelphia	DATA:Entity-Centric	TASK:Causal Reasoning	VENUE:EACL		
+CookDial: a dataset for task-oriented dialogs grounded in procedural documents	2023	CITY:Ghent	DATA:Task-Centric	TASK:Grounded Task-Oriented Dialogue	VENUE:Applied Intelligence		
+A BERT-based Intent Recognition and Slot Filling Joint Model for Air Traffic Control Instruction Understanding	2023	CITY:Beijing	DATA:Task-Centric	TASK:Parsing	VENUE:Symposium on Dependable Autonomic and Secure		
+Procedural Text Mining with Large Language Models	2023	CITY:Brescia	DATA:Symbolic	DATA:Unstructured	TASK:Process Extraction	TASK:Process Structure Induction	VENUE:International Conference on Knowledge Captur
+The Coreference under Transformation Labeling Dataset: Entity Tracking in Procedural Texts Using Event Models	2023	CITY:Waltham	DATA:Entity-Centric	TASK:Entity Tracking	VENUE:ACL		
+BioInstruct: Instruction Tuning of Large Language Models for Biomedical Natural Language Processing	2023	CITY:Amherst	DATA:Task-Centric	DATA:Unstructured	TASK:Domain Acquisition	VENUE:Journal of the American Medical Informatics	
+InstructExcel: A Benchmark for Natural Language Instruction in Excel	2023	CITY:Amherst	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:EMNLP		
+OpenPI-C: A Better Benchmark and Stronger Baseline for Open-Vocabulary State Tracking	2023	CITY:Champaign	DATA:Symbolic	TASK:Entity Tracking	VENUE:ACL		
+WikiHowQA: A Comprehensive Benchmark for Multi-Document Non-Factoid Question Answering	2023	CITY:Melbourne	DATA:Unstructured	TASK:QA	VENUE:ACL		
+WebArena: A Realistic Web Environment for Building Autonomous Agents	2023	CITY:Pittsburgh	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:ICLR		
+Mind2Web: Towards a Generalist Agent for the Web	2023	CITY:Columbus	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:NEURIPS		
+SmartPlay: A Benchmark for LLMs as Intelligent Agents	2023	CITY:Champaign	DATA:Task-Centric	TASK:Grounded Task Execution	VENUE:ICLR		
+Learning Structural Representations for Recipe Generation and Food Retrieval	2023	CITY:Seattle	DATA:Task-Centric	TASK:Process Extraction	VENUE:Transactions on Pattern Analysis and Machine		
+Learning to Ground Instructional Articles in Videos through Narrations	2023	CITY:Menlo Park	DATA:Unstructured	TASK:Event Alignment	VENUE:ICCV		
+CLMSM: A Multi-Task Learning Framework for Pre-training on Procedural Text	2023	CITY:Kharagpur	DATA:Task-Centric	TASK:Entity Tracking	TASK:Event Alignment	VENUE:EMNLP	
+Commonsense Temporal Action Knowledge (CoTAK) Dataset	2023	CITY:Tokyo	DATA:Task-Centric	TASK:OTHERS	VENUE:International Conference on Information and		
+Distilling Script Knowledge from Large Language Models for Constrained Language Planning	2023	CITY:Shanghai	DATA:Unstructured	TASK:Script Generation	VENUE:ACL		
+Interpreting User Requests in the Context of Natural Language Standing Instructions	2023	CITY:Edinburgh	DATA:Symbolic	TASK:Grounded Task-Oriented Dialogue	VENUE:NAACL		
+Lexi: Self-Supervised Learning of the UI Language	2023	CITY:Tempe	DATA:Symbolic	TASK:Grounded Task Execution	VENUE:EMNLP		
+Mobile-Env: An Evaluation Platform and Benchmark for Interactive Agents in LLM Era	2023	CITY:Shanghai	DATA:Symbolic	TASK:Grounded Task Execution	VENUE:CoRR		
+Multimodal Procedural Planning via Dual Text-Image Prompting	2023	CITY:Santa Barbara	DATA:Unstructured	TASK:Script Generation	VENUE:arxiv		
+OpenPI2.0: An Improved Dataset for Entity Tracking in Texts	2023	CITY:Philadelphia	DATA:Symbolic	TASK:Entity Tracking	VENUE:EACL		
+ScriptWorld: Text Based Environment For Learning Procedural Knowledge	2023	CITY:Kanpur	DATA:Symbolic	TASK:Grounded Task Execution	VENUE:IJCAI		
+Task2KB: A Public Task-Oriented Knowledge Base	2023	CITY:Liverpool	DATA:Task-Centric	TASK:Domain Acquisition	VENUE:AAAI		
+A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis	2023	CITY:London	DATA:Symbolic	TASK:Grounded Task Execution	VENUE:ICLR		
