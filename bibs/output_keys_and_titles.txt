@@ -1,0 +1,235 @@
+wikihow: a large scale text summarization dataset | wikihowSummary
+wikilingua: a new benchmark dataset for cross-lingual abstractive summarization | wikihowMultilingualSummary
+extracting action sequences from texts based on deep reinforcement
+learning | FengZK18
+wikihowtoimprove: a resource and analyses on edits in instructional
+texts | AnthonioBR20
+learning procedures from text: codifying how-to procedures in deep
+neural networks | ParkM18
+benchmarking procedural language understanding for low-resource languages:
+a case study on turkish | UzunogluS23
+paradise: evaluating implicit planning skills of language models
+with procedural warnings and tips dataset | paradise24
+nltopddl: one-shot learning of pddl models from natural language process manuals | ManualToPDDL
+inscript: narrative texts annotated with script information | InScript
+the materials science procedural text corpus: annotating materials
+synthesis procedures with shallow semantic structures | MysoreJKHCSFMO19
+event-centric natural language processing | ACL21-event-centric-NLP-tutorial
+simpler context-dependent logical forms via model projections | SconeLongPL16
+draw me a flower: processing and grounding abstraction in natural
+language | DrawMeAFlower22
+tracking state changes in procedural text: a challenge dataset and
+models for process paragraph comprehension | ProPara1
+everything happens for a reason: discovering the purpose of actions
+in procedural text | ProPara2
+openpi-c: a better benchmark and stronger baseline for open-vocabulary
+state tracking | OpenPIC
+textworld: a learning environment for text-based games | TextWorld
+emergent world representations: exploring a sequence model trained
+on a synthetic task | OthelloGame
+action-based conversations dataset: a corpus for building more in-depth
+task-oriented dialogue systems | ABCD
+end-to-end learning of flowchart grounded task-oriented dialogs | FlowDial
+collaborative dialogue in minecraft | Narayan-ChenJH19
+teach: task-driven embodied agents that chat | TEACh
+modeling worlds in text | AmmanabroluR21a
+virtualhome: simulating household activities via programs | VirtualHome
+vision-and-language navigation: interpreting visually-grounded navigation
+instructions in real environments | AndersonWTB0S0G18
+mapping instructions to actions in 3d environments with visual goal
+prediction | MisraBBNSA18
+alfred: a benchmark for interpreting grounded instructions for everyday tasks | ALFRED20
+recipeqa: a challenge dataset for multimodal comprehension of cooking
+recipes | RecipeQA
+myfixit: an annotated dataset, annotation tool, and baseline methods
+for information extraction from repair manuals | NabizadehKH20
+mcscript2.0: a machine comprehension corpus focused on script events and participants | Mcscript2
+missing procedural texts repairing based on process model and activity
+description templates | ZengTNDLX20
+tiered reasoning for intuitive physics: toward verifiable commonsense
+language understanding | StorksGZC21
+towards ai-complete question answering: a set of prerequisite toy
+tasks | bAbI
+reasoning about procedures with natural language processing: a tutorial | ProcedureTutorial
+scripts, plans, goals, and understanding: an inquiry into human knowledge structures | schank2013scripts
+context dependent semantic parsing: a survey | SemParsingSurvey
+a survey on semantic parsing | KamathD19
+toward code generation: a survey and lessons from semantic parsing | abs-2105-03317
+grounding 'grounding' in nlp | ChanduBB21
+a comprehensive survey of procedural video datasets | TanZLT21
+a survey of video datasets for grounded event understanding | videoGrounding24
+a survey of robotic language grounding: tradeoffs between symbols
+and embeddings | roboticGrounding24
+a survey on large language model based autonomous agents | WangMFZYZCTCLZWW24
+a survey on deep learning event extraction: approaches and applications | li2022survey
+business process model and notation: the current state of affairs | KocbekJHP15
+the prisma 2020 statement: an updated guideline for reporting systematic reviews | page2021prisma
+prisma 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews | page2021prisma2
+webarena: a realistic web environment for building autonomous agents | WebArena23
+mind2web: towards a generalist agent for the web | Mind2Web2023
+world of bits: an open-domain platform for web-based agents | ShiKFHL17
+reinforcement learning on web interfaces using workflow-guided exploration | LiuGPSL18
+webshop: towards scalable real-world web interaction with grounded
+language agents | WebShopN22
+androidenv: a reinforcement learning platform for android | AndroidEnv21
+grounding open-domain instructions to automate web support tasks | Russ2021
+a dataset for interactive vision-language navigation with unknown
+command feasibility | MotifBurnsAAKSP22
+learning to follow navigational directions | MapTaskVogelJ10
+the hcrc map task corpus: natural dialogue for speech recognition | ThompsonABDNS93
+understanding natural language commands for robotic navigation and
+mobile manipulation | TellexKDWBTR11
+weakly supervised learning of semantic parsers for mapping instructions
+to actions | ArtziZ13
+learning language games through interaction | WangLM16
+flin: a flexible natural language interface for web navigation | FLINMazumderR21
+walk the talk: connecting language, knowledge, and action in route
+instructions | MacMahonSK06
+cookdial: a dataset for task-oriented dialogs grounded in procedural documents | Jiang_2022_cookdial
+dialfred: dialogue-enabled agents for embodied instruction following | gao2022dialfred
+chess as a testbed for language model state tracking | Toshniwal2021ChessAA
+a bert-based intent recognition and slot filling joint model for air traffic control instruction understanding | 10311266
+from natural language instructions to complex processes: issues in chaining trigger action rules | ito2020natural
+task2kb: a public task-oriented knowledge base | sen2023task2kb
+super-naturalinstructions: generalization via declarative instructions on 1600+ nlp tasks | wang2022supernaturalinstructions
+piqa: reasoning about physical commonsense in natural language | bisk2019piqa
+smartplay : a benchmark for llms as intelligent agents | wu2024smartplay
+commonsense temporal action knowledge (cotak) dataset | 10.1145/3583780.3615114
+interactive image manipulation with natural language instruction commands | shinagawa2018interactive
+learning language-conditioned robot behavior from offline data and crowd-sourced annotation | nair2021learning
+multi-step dialogue workflow action prediction | ramakrishnan2023multi
+uncertainty of thoughts: uncertainty-aware planning enhances information seeking in large language models | hu2024uncertainty
+a real-world webagent with planning, long context understanding, and program synthesis | gur2024realworld
+supplementing omitted named entities in cooking procedural text with attached images | RecipeNER
+evaluation of stanford ner for extraction of assembly information from instruction manuals | 7964092
+an approach for process model extraction by multi-grained text classification | ProcessModelExtraction
+howsumm: a multi-document summarization dataset derived from wikihow articles | Boni2021HowSummAM
+summarizing a virtual robot's past actions in natural language | DeChant2022SummarizingAV
+a survey of event extraction from text | xiang2019survey
+walk the talk: connecting language, knowledge, and action in route instructions | MacMahon2006WalkTT
+learning structural representations for recipe generation and food retrieval | wang2022learning
+structure-aware procedural text generation from an image sequence | 9288722
+vision-and-language navigation: interpreting visually-grounded navigation instructions in real environments | Anderson2017VisionandLanguageNI
+understanding natural language commands for robotic navigation and mobile manipulation | R
+reshaping robot trajectories using natural language commands: a study of multi-modal data alignment using transformers | Bucker2022ReshapingRT
+reve-ce: remote embodied visual referring expression in continuous environment | REVE-CE
+reverie: remote embodied visual referring expression in real indoor environments | REVERIE
+learning neuro-symbolic programs for language-guided robotic manipulation | Singh2022LearningNP
+natural language instructions for human–robot collaborative manipulation | Scalise2018NaturalLI
+calvin: a benchmark for language-conditioned policy learning for long-horizon robot manipulation tasks | Mees2021CALVINAB
+tell me dave: context-sensitive grounding of natural language to manipulation instructions | Misra2014TellMD
+hierarchical decision making by generating and following natural language instructions | Hu2019HierarchicalDM
+mobile-env: building qualified evaluation benchmarks for llm-gui interaction | DanyangZhang2023_MobileEnv
+emergent world representations: exploring a sequence model trained on a synthetic task | Li2022EmergentWR
+mobile-env: an evaluation platform and benchmark for llm-gui interaction | ZhangMobileEnvAE
+draw me a flower: processing and grounding abstraction in natural language | Lachmy2021DrawMA
+approaching the symbol grounding problem with probabilistic graphical models | Tellex2011ApproachingTS
+embodied question answering | embodiedQA
+scriptworld: text based environment for learning procedural knowledge | ScriptWorld
+hierarchical subgoal generation from language instruction for robot task planning | 10054939
+learning procedures from text: codifying how-to procedures in deep neural networks | 10.1145/3184558.3186347
+multimodal procedural planning via dual text-image prompting | lu2023multimodal
+dense-captioning events in videos | 8237345
+learning to ground instructional articles in videos through narrations | Mavroudi2023LearningTG
+mapping natural language procedures descriptions to linear temporal logic templates: an application in the surgical robotic domain | bombieri2023mapping
+worldapis: the world is worth how many apis? a thought experiment | ou2024worldapisworldworthapis
+recipe1m+: a dataset for learning cross-modal embeddings for cooking recipes and food images | marin2019learning
+automatic detection of procedural knowledge in robotic-assisted surgical texts | bombieri2021automatic
+towards automatic learning of procedures from web instructional videos | ZhXuCoAAAI18
+combining machine learning and semantic web: a systematic mapping study | Breit2023CombiningML
+bioinstruct: instruction tuning of large language models for biomedical natural language processing | Tran2023BioInstructIT
+benchmarking generalization via in-context instructions on 1, 600+ language tasks | Wang2022BenchmarkingGV
+a named entity based approach to model recipes | diwan2020named
+multi-modal cooking workflow construction for food recipes | pan2020multi
+language models can solve computer tasks | Kim2023LanguageMC
+webgpt: browser-assisted question-answering with human feedback | Nakano2021WebGPTBQ
+extracting action sequences from texts based on deep reinforcement learning | Feng2018ExtractingAS
+planning domain generation from natural language step-by-step instructions | steinert2020planning
+recipedb: a resource for exploring recipes | 10.1093/database/baaa077
+learning cross-modal embeddings for cooking recipes and food images | 8099810
+grounding action descriptions in videos | tacos:regnerietal:tacl
+kusk dataset: toward a direct understanding of recipe text and human cooking activity | 10.1145/2638728.2641338
+miais: a multimedia recipe dataset with ingredient annotation at each instructional step | MIAIS
+cookpad image dataset: an image collection as infrastructure for food research | 10.1145/3077136.3080686
+procedural text mining with large language models | textMining23
+aser: a large-scale eventuality knowledge graph | Zhang2019ASERAL
+inducing script structure from crowdsourced event descriptions via
+semi-supervised clustering | WanzareZTP17
+distilling script knowledge from large language models for constrained
+language planning | YuanCFGSJXY23
+automatic construction of a large-scale situation ontology by mining
+how-to instructions from the web | JungRKM10
+distilling task knowledge from how-to communities | ChuTW17
+lemon: language-based environment manipulation via execution-guided
+pre-training | Lemon22
+knowledge-aware procedural text understanding with multi-stage training | ZhangGQWJ21
+process modeling with large language models | kourani2024process
+pet: an annotated dataset for process extraction from natural language text tasks | bellan2023pet
+a survey on large language models for code generation | CodeSurvey241
+large language models meet nl2code: a survey | ZanCZLWGWL23
+tracking entities in technical procedures - a new dataset and baselines | TechTrack
+understanding natural language | Winograd1972UnderstandingNL
+favor: full-body ar-driven virtual object rearrangement guided by
+instruction text | FAVOR
+howto100m: learning a text-video embedding by watching hundred million narrated video clips | miech19howto100m
+towards a dataset for human computer communication via grounded language
+acquisition | BLOCKS
+enhancing lexical-based approach with external knowledge for vietnamese multiple-choice machine reading comprehension | vSIMMR
+what happened? leveraging verbnet to predict the effects of actions
+in procedural text | clark2018leveraging
+alchemy: a quantum chemistry dataset for benchmarking ai models | Chen2019AlchemyAQ
+towards ai-complete question answering: a set of prerequisite toy tasks | Weston2015TowardsAQ
+probing the multi-turn planning capabilities of llms via 20 question games | zhang2023entity
+alfworld: aligning text and embodied environments for interactive learning | Shridhar2020ALFWorldAT
+babyai: first steps towards grounded language learning with a human in the loop | BabyAI
+do as i can, not as i say: grounding language in robotic affordances | SayCan
+what happened? leveraging verbnet to predict the effects of actions in procedural text | Clark2018WhatHL
+missing procedural texts repairing based on process model and activity description templates | Zeng2020Missing
+large language models for robotics: opportunities, challenges, and perspectives | RoboLLMs
+advances in embodied navigation using large language models: a survey | NavSurvey
+llm-planner: few-shot grounded planning for embodied agents with large language models | Song_2023_ICCV
+large language models and games: a survey and roadmap | GameSurvey
+personal llm agents: insights and survey about the capability, efficiency and security | AgentSurvey
+odin: a single model for 2d and 3d perception | jain2024odin
+procedural level generation in educational games from natural language instruction | kumaran2024procedural
+cat-bench: benchmarking language model understanding of causal and temporal dependencies in plans | lal2024cat
+a context-aware knowledge acquisition for planning applications using ontologies | Babli2019ACK
+automatic construction of a large-scale situation ontology by mining how-to instructions from the web | jung2010Automatic
+proc2pddl: open-domain planning representations from texts | zhang-etal-2024-proc2pddl
+order-based pre-training strategies for procedural text understanding | nandy-etal-2024-order
+end-to-end parsing of procedural text into flow graphs | bhatt-etal-2024-end
+paradise: evaluating implicit planning skills of language models with procedural warnings and tips dataset | uzunoglu-etal-2024-paradise
+event semantic knowledge in procedural text understanding | kazeminejad-palmer-2023-event
+clmsm: a multi-task learning framework for pre-training on procedural text | nandy-etal-2023-clmsm
+understanding the cooking process with english recipe text | fan-hunter-2023-understanding
+the coreference under transformation labeling dataset: entity tracking in procedural texts using event models | rim-etal-2023-coreference
+are all steps equally important? benchmarking essentiality detection in event processes | wang-etal-2023-steps
+causal document-grounded dialogue pre-training | zhao-etal-2023-causal
+clevr-implicit: a diagnostic dataset for implicit reasoning in referring expression comprehension | zhang-etal-2023-clevr
+incorporating task-specific concept knowledge into script learning | sun-etal-2023-incorporating
+learning action conditions from instructional manuals for instruction understanding | wu-etal-2023-learning
+distilling script knowledge from large language models for constrained language planning | yuan-etal-2023-distilling
+wikihowqa: a comprehensive benchmark for multi-document non-factoid question answering | bolotova-baranova-etal-2023-wikihowqa
+finding sub-task structure with natural language instruction | ri-etal-2022-finding
+controllable factuality in document-grounded dialog systems using a noisy channel model | daheim-etal-2022-controllable
+understanding multimodal procedural knowledge by sequencing multimodal instructional manuals | wu-etal-2022-understanding
+learning to decompose and organize complex tasks | zhang-etal-2021-learning
+tiered reasoning for intuitive physics: toward verifiable commonsense language understanding | storks-etal-2021-tiered-reasoning
+aligning actions across recipe graphs | donatelli-etal-2021-aligning
+cascaded span extraction and response generation for document-grounded dialog | daheim-etal-2021-cascaded
+english recipe flow graph corpus | yamakata-etal-2020-english
+wikihowtoimprove: a resource and analyses on edits in instructional texts | anthonio-etal-2020-wikihowtoimprove
+recipenlg: a cooking recipes dataset for semi-structured text generation | bien-etal-2020-recipenlg
+from ``before'' to ``after'': generating natural language instructions from image pairs in a simple visual domain | rojowiec-etal-2020-generating
+what are you trying to do? semantic typing of event processes | chen-etal-2020-trying
+recipe instruction semantics corpus (risec): resolving semantic structure and zero anaphora in recipes | jiang-etal-2020-recipe
+the materials science procedural text corpus: annotating materials synthesis procedures with shallow semantic structures | mysore-etal-2019-materials
+benchmarking hierarchical script knowledge | bisk-etal-2019-benchmarking
+answers unite! unsupervised metrics for reinforced summarization models | scialom-etal-2019-answers
+everything happens for a reason: discovering the purpose of actions in procedural text | dalvi-etal-2019-everything
+implicit argument prediction with event knowledge | cheng-erk-2018-implicit
+recipeqa: a challenge dataset for multimodal comprehension of cooking recipes | yagcioglu-etal-2018-recipeqa
+inducing script structure from crowdsourced event descriptions via semi-supervised clustering | wanzare-etal-2017-inducing
+a framework for procedural text understanding | maeta-etal-2015-framework
+flow graph corpus from recipe texts | mori-etal-2014-flow
+learning script knowledge with web experiments | regneri-etal-2010-learning

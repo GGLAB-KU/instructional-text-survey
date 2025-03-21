@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+networkx
+numpy
+folium
+selenium
+webdriver-manager

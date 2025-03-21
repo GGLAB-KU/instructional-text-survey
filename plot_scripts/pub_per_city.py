@@ -1,3 +1,4 @@
+# This produces Fig. 4. Geographical distribution of publications
 import folium
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
