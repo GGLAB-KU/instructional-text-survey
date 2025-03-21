@@ -90,8 +90,4 @@ If you find our work useful, please cite the paper as follows:
 
 ## Contributing
 
-Contributions to the repository are welcome! If you have suggestions or improvements, please open an issue or submit a pull request. For major changes, please discuss them first via issue to ensure alignment with the project goals.
-
----
-
-This README.md provides an introduction to the repository, a summary of the paper, and practical guidance on how to use and contribute to the project. Feel free to adjust the content to better match your project’s specifics or additional instructions.
+Contributions to the repository are welcome! If you have suggestions or improvements, please don't hestiate to email us.
